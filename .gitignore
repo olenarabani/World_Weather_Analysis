@@ -6,6 +6,12 @@ config.py
 API_practice.ipynb
 random_numbers.ipynb
 
+=======
+config.py
+API_practice.ipynb
+random_numbers.ipynb
+
+
 __pycache__/
 *.py[cod]
 *$py.class
